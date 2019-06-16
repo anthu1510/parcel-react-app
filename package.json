@@ -4,7 +4,8 @@
   "description": "React app on Parcel bundles without web pack configuration... Parceljs Super fast bundler with zero Configuration",
   "main": "index.js",
   "scripts": {
-    "start": "parcel src/index.html --no-cache"
+    "start": "parcel src/index.html --no-cache",
+    "build": "parcel build src/index.html --no-cache"
   },
   "author": "Aravinth Andhu",
   "license": "MIT",
