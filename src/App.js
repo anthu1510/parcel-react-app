@@ -1,10 +1,8 @@
 import React, { Component } from 'react';
 
 class App extends Component {
-    state = { 
-        count: '15-10-92'
-     }
-     
+    state = { };
+
     render() { 
         return ( 
             <h1>React App Parcel Js...</h1>
